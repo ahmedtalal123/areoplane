@@ -1,0 +1,110 @@
+h1{
+    text-align: center;
+    color: blue
+}
+
+#div1{
+    display: block;
+    float:left;
+    padding: auto;
+    margin: auto;
+    padding-right: 10px;
+    margin-left:35px;
+    margin-top: 10px;
+    background-color: rgba(224, 240, 134, 0.3);   
+    border-style: solid;
+}
+
+nav{
+    text-align: center;
+}
+
+#div2{
+    display: block;
+    padding: 50px 50px 10px 50px;
+    border-style: solid;
+    float: right;
+    margin: 10px;
+    margin-right: 35px;
+    background-color: rgba(224, 240, 134, 0.3);
+}
+
+h3{
+    text-align: center;
+}
+
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0ZiG_mMaLU6R44OBfXgZm3YUEfHu4cNvuGFc1DLzt8LYch_KQA);
+  background-repeat: no-repeat;
+  background-size: 1366px 768px;
+}
+
+#img1{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img2{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img3{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img4{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img5{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img6{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img7{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img8{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img9{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img10{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
